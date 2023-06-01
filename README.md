@@ -2,7 +2,7 @@
 
 ### I am Java backend developer
 
-+ 🌱 I’m currently learning new technologies
++ 🌱 I am currently writing my own projects
 + 💬 Ask me about Java, Spring
 + 📫 How to reach me: stanbek1004@gmail.com
 
